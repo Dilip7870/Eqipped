@@ -1,0 +1,39 @@
+.order{
+    margin-left: -1220px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.product{
+    margin-top: -30px;
+    margin-left: -500px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.date{
+    margin-top: -30px;
+    margin-left: 200px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.status{
+    padding-top: 25px;
+    margin-left: -500px;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(232, 172, 60);
+}
+
+
+
+
+
+.bigh1{
+    font-weight: bold;
+    font-size: 25px;
+    padding: 25px;
+    margin-left: -800px;
+    color: rgb(232, 172, 60);
+}
